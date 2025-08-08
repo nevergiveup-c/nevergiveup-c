@@ -7,15 +7,15 @@
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2025 18:53:21 UTC
+ Last Updated on 08/08/2025 18:48:41 UTC
 <!--END_SECTION:waka-->
